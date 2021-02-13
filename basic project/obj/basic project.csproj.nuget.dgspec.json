@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vs 2019\\basic project\\basic project\\basic project.csproj": {}
+    "C:\\vs2019\\basicproject\\basic project\\basic project.csproj": {}
   },
   "projects": {
-    "C:\\vs 2019\\basic project\\basic project\\basic project.csproj": {
+    "C:\\vs2019\\basicproject\\basic project\\basic project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vs 2019\\basic project\\basic project\\basic project.csproj",
+        "projectUniqueName": "C:\\vs2019\\basicproject\\basic project\\basic project.csproj",
         "projectName": "basic project",
-        "projectPath": "C:\\vs 2019\\basic project\\basic project\\basic project.csproj",
+        "projectPath": "C:\\vs2019\\basicproject\\basic project\\basic project.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\vs 2019\\basic project\\basic project\\obj\\",
+        "outputPath": "C:\\vs2019\\basicproject\\basic project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
