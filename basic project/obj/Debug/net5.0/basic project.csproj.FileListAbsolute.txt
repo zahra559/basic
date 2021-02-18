@@ -1,0 +1,66 @@
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\appsettings.Development.json
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\appsettings.json
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.exe
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.deps.json
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.runtimeconfig.json
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.runtimeconfig.dev.json
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\ref\basic project.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\basic project.pdb
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Humanizer.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.csprojAssemblyReference.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.AssemblyInfoInputs.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.AssemblyInfo.cs
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.csproj.CoreCompileInputs.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.MvcApplicationPartsAssemblyInfo.cs
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.MvcApplicationPartsAssemblyInfo.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\staticwebassets\basic project.StaticWebAssets.Manifest.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\staticwebassets\basic project.StaticWebAssets.xml
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\scopedcss\bundle\basic project.styles.css
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.RazorTargetAssemblyInfo.cache
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.csproj.CopyComplete
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.dll
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\ref\basic project.dll
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.pdb
+C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.genruntimeconfig.cache
