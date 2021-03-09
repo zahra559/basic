@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace basic_project.Controllers
 {
+    [Route("api")]
     public class FilesController : Controller
     {
         
@@ -47,7 +48,7 @@ namespace basic_project.Controllers
                     return Ok("No matching contenttype found for file " + fileName);
                 }
                 //only photo with png ang jpeg allowed
-                if (contentType != "image/png" || contentType != "image/jpeg")
+                if (contentType != "image/png" && contentType != "image/jpeg")
                 {
                     return Ok("file type not allowed");
                 }
