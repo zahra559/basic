@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using basic_project.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -17,5 +18,7 @@ namespace basic_project.Authentication
         {
             base.OnModelCreating(builder);
         }
+        public virtual DbSet<FileModel> Files { get; set; }
+
     }
 }

@@ -64,3 +64,4 @@ C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.dll
 C:\vs2019\basicproject\basic project\obj\Debug\net5.0\ref\basic project.dll
 C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.pdb
 C:\vs2019\basicproject\basic project\obj\Debug\net5.0\basic project.genruntimeconfig.cache
+C:\vs2019\basicproject\basic project\bin\Debug\net5.0\MimeMapping.dll

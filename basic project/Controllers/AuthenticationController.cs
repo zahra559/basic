@@ -44,6 +44,9 @@ namespace basic_project.Controllers
                 SecurityStamp = Guid.NewGuid().ToString(),
                 UserName=model.UserName,
             };
+
+            var claim = new Claim("Claim", model.Claim);
+            await userManager.AddClaimAsync(user, claim);
             var result = await userManager.CreateAsync(user, model.Password);
             if (!result.Succeeded)
             {
@@ -60,21 +63,14 @@ namespace basic_project.Controllers
             if (user != null && await userManager.CheckPasswordAsync(user, model.Password))
             {
                 var userRoles = await userManager.GetRolesAsync(user);
-                var authClaims = new List<Claim>
-                {
-                    new Claim(ClaimTypes.Name,user.UserName),
-                    new Claim(JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString()),
-                };
-                foreach(var userRole in userRoles)
-                {
-                    authClaims.Add(new Claim(ClaimTypes.Role, userRole));
-                }
+                IList<Claim> claims = await userManager.GetClaimsAsync(user);
+
                 var authSigninKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_cofiguration["JWT:Secret"]));
                 var token = new JwtSecurityToken(
                    issuer: _cofiguration["JWT:ValidIssuer"],
                    audience: _cofiguration["JWT:ValidAudience"],
                    expires: DateTime.Now.AddHours(3),
-                   claims: authClaims,
+                   claims: claims,
                    signingCredentials: new SigningCredentials(authSigninKey, SecurityAlgorithms.HmacSha256)
                    );
                 return Ok(new
@@ -114,17 +110,19 @@ namespace basic_project.Controllers
             {
                 await userManager.AddToRoleAsync(user, userRoles.Admin);
             }
+            var claim = new Claim("Claim", model.Claim);
+            await userManager.AddClaimAsync(user, claim);
             return Ok(new Response { Status = "Success", Massage = "User Create Successfully" });
         }
 
-        [HttpGet]
-        [Route("deletUser")]
-        //[Authorize(Policy = "DeletRolePolicy")]
-        public async Task<IActionResult> DeletUser()
-        {
+        //[HttpGet]
+        //[Route("deletUser")]
+        ////[Authorize(Policy = "DeletRolePolicy")]
+        //public async Task<IActionResult> DeletUser()
+        //{
            
-                return Ok();
+        //        return Ok();
           
-        }
+        //}
      }
 }
